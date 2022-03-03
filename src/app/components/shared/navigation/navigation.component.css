@@ -1,0 +1,50 @@
+.fa-1x {
+    font-size: 1.5rem;
+    }
+    .navbar-toggler.toggler-example {
+    cursor: pointer;
+    }
+    .dark-blue-text {
+    color: #0A38F5;
+    }
+    .dark-pink-text {
+    color: #AC003A;
+    }
+    .dark-amber-text {
+    color: #ff6f00;
+    }
+    .dark-teal-text {
+    color: #004d40;
+    }
+
+    div{
+        color: black;
+        font-family: 'Athiti', sans-serif;
+    }
+    a{
+      color: black;
+    }
+    
+.navbar{
+  background: #e83e8c;
+  background: -moz-linear-gradient(45deg, #e83e8c 0%, #5126a7 100%);
+  background: -webkit-gradient(left bottom, right top, color-stop(0%, #e83e8c), color-stop(100%, #5126a7));
+  background: -webkit-linear-gradient(45deg, #e83e8c 0%, #5126a7 100%);
+  background: -o-linear-gradient(45deg, #e83e8c 0%, #5126a7 100%);
+  background: -ms-linear-gradient(45deg, #e83e8c 0%, #5126a7 100%);
+  background: linear-gradient(45deg, #e83e8c 0%, #5126a7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e83e8c', endColorstr='#5126a7', GradientType=1 ); }
+
+  #collapsibleNavId{
+    font-size: 25px;
+  }
+  .nav-link{
+    color: white;
+  }
+  .nav-link :hover{
+    color: white;
+  }
+
+  .collapse li .nav-link{
+    color: white;
+  }
