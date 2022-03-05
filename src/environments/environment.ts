@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  serviceUrl: "http://localhost:4000"
+  serviceUrl: "https://tradeshop-patchareeporn.herokuapp.com"
 };
 
 /*
